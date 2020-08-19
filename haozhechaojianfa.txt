@@ -1,3 +1,4 @@
 我是郝哲超这是我的文件
 这是我在haozhechao1下的修改haozhechaojianfa.txt文件 edit by linghuchong
+这是我在haozhechao1下的修改haozhechaojianfa.txt文件 edit by haozhechao
 测试pull指令一气呵成pull等于fetch加merge
