@@ -3,3 +3,4 @@
 这是我在haozhechao1下的修改haozhechaojianfa.txt文件 edit by haozhechao
 测试pull指令一气呵成pull等于fetch加merge
 这是东方不败克隆下来的修改文件
+这是测试ssh远程登录不用密码只能绑定一个账户`
